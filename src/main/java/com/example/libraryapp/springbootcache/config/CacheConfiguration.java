@@ -1,3 +1,4 @@
+/*
 package com.example.libraryapp.springbootcache.config;
 
 import org.springframework.boot.autoconfigure.cache.CacheManagerCustomizer;
@@ -24,4 +25,4 @@ public class CacheConfiguration {
             System.out.println("customizer invoked!!");
         }
     }
-}
+}*/
