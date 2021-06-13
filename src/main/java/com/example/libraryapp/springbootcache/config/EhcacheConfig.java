@@ -1,3 +1,4 @@
+/*
 package com.example.libraryapp.springbootcache.config;
 
 import org.springframework.cache.CacheManager;
@@ -21,4 +22,4 @@ public class EhcacheConfig {
         factoryBean.setShared(true);
         return factoryBean.getObject();
     }
-}
+}*/
